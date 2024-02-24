@@ -1,0 +1,18 @@
+img {
+  max-width: 150px;
+}
+td {
+  text-align: center;
+}
+
+.descrizione {
+  max-width: 450px;
+}
+
+.visibile {
+  display: block;
+}
+
+.visibile {
+  display: none;
+}
